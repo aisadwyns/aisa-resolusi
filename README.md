@@ -1,2 +1,2 @@
 # aisa-resolusi
-Repository untuk menyimpan aisa kedepannya
+Repository untuk menyimpan project aisa kedepannya
